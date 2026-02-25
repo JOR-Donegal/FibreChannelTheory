@@ -19,7 +19,7 @@ Switches can be connected in a line, with two lines/fabrics.
 Once sites become more complex. A core-to-edge fabric topology becomes normal, with a director at the centre of the fabric and switches connected back in a star topology. If we do this with a second director, then there is a dual-redundant A and B network with no overlap.
 
 <figure>
-<img src = "https://jor-donegal.github.io/FibreChannelTheory/images/fig7.jpg">
+<img src = "https://jor-donegal.github.io/FibreChannelTheory/images/fig8.jpg">
 <figcaption>Fig 8. Director x 2.</figcaption>
 </figure>
 

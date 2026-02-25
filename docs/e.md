@@ -3,7 +3,7 @@
 There are some advantages to having mesh connections, however most designs only use a single path. From an availability perspective, separate fabrics will give a much better result than a messy mesh.
 
 <figure>
-<img src = "https://jor-donegal.github.io/FibreChannelTheory/images/fig7.jpg">
+<img src = "https://jor-donegal.github.io/FibreChannelTheory/images/fig9.jpg">
 <figcaption>Fig 9. Mesh.</figcaption>
 </figure>
 
