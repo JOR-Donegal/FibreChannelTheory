@@ -1,4 +1,4 @@
-site_name: Topic Template
+site_name: Fibre Channel Theory
 site_url: https://example.com
 theme:
   name: material
@@ -15,7 +15,7 @@ theme:
   palette:
       # Light Mode
     - scheme: default
-      primary: green
+      primary: purple
       accent: red
 
 markdown_extensions:
